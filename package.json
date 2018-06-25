@@ -1,0 +1,32 @@
+{
+  "name": "console-hrtime",
+  "version": "1.0.0",
+  "description": "Customizable, high-res replacement for console.time() for Node.js and browsers",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer",
+    "profile",
+    "measure",
+    "speed",
+    "hrtime",
+    "performance",
+    "Date.now",
+    "console.time",
+    "now",
+    "time-diff",
+    "time"
+  ],
+  "author": "Joshua Newell",
+  "license": "MIT"
+}
