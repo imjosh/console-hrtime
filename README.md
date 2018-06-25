@@ -78,4 +78,4 @@ This library automatically uses the highest resolution time source available in 
 
 ## Examples
 
-Examples can be found [here](examples/example.js)
+Examples can be found [here](https://github.com/imjosh/console-hrtime/blob/master/examples/example.js)
