@@ -1,6 +1,6 @@
 # console-hrtime
 
-High-res replacement for console.time() for Node.js and browsers:
+Customizable, high-res replacement for console.time() for Node.js and browsers:
 
 ```js
 const ConsoleHrTime = require('console-hrtime');

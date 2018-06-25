@@ -1,6 +1,6 @@
 {
   "name": "console-hrtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customizable, high-res replacement for console.time() for Node.js and browsers",
   "main": "index.js",
   "directories": {
