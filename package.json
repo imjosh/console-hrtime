@@ -28,5 +28,9 @@
     "time"
   ],
   "author": "Joshua Newell",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imjosh/console-hrtime/issues"
+  },
+  "homepage": "https://github.com/imjosh/console-hrtime"
 }
