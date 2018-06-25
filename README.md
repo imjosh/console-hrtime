@@ -78,4 +78,4 @@ This library automatically uses the highest resolution time source available in 
 
 ## Examples
 
-Examples can be found [here](examples/examples.js)
+Examples can be found [here](examples/example.js)
